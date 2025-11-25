@@ -36,7 +36,7 @@ Filtered list based on category
 
 Opens dialer with selected phone number
 
-🧰 Language & Technologies
+## 🧰 Language & Technologies
 
 Kotlin (Android)
 
@@ -50,7 +50,7 @@ Spinner
 
 Android Studio
 
-📸 Screenshot
+## 📸 Screenshot
 
 
 ![App Screenshot](https://github.com/Nada3Tarek/SimpleContactsManager/blob/main/UI.jpeg?raw=true)
