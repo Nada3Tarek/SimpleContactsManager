@@ -26,7 +26,6 @@ Coroutines (lifecycleScope)
 ListView + Spinner
 
 📸 Screenshot
+
+
 ![App Screenshot](https://github.com/Nada3Tarek/SimpleContactsManager/blob/main/UI.jpeg?raw=true)
-
-
-![App Screenshot](LINK_TO_IMAGE)
