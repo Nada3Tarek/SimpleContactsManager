@@ -1,8 +1,8 @@
-📱 Simple Contacts Manager
+# 📱 Simple Contacts Manager
 
 This project implements a simple Android-based contacts manager using Room Database, Kotlin, and Coroutines, allowing users to add, filter, and dial contacts easily.
 
-📌 Features
+## 📌 Features
 
 Add new contacts (Name → Phone → Category)
 
@@ -20,7 +20,7 @@ Lightweight UI using ListView + Spinner
 
 Clean MV-Activity structure
 
-📥 Input
+## 📥 Input
 
 Contact Name
 
@@ -28,7 +28,7 @@ Contact Phone Number
 
 Contact Category (String)
 
-📤 Output
+## 📤 Output
 
 Full list of saved contacts
 
